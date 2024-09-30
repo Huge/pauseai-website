@@ -1,0 +1,23 @@
+.logo-pause.svelte-g7kyji.svelte-g7kyji {
+	fill: var(--text);
+}
+.logo.svelte-g7kyji.svelte-g7kyji {
+	width: 11rem;
+	overflow: visible;
+}
+.logo-circle.svelte-g7kyji.svelte-g7kyji {
+	transform: translate(-2px);
+	transition: transform 0.1s ease-in-out;
+	transform-origin: center;
+}
+.logo-animate.svelte-g7kyji:hover .logo-circle.svelte-g7kyji {
+	transform: scale(1.1);
+}
+.logo-animate.svelte-g7kyji:active .logo-circle.svelte-g7kyji {
+	fill: var(--brand-subtle);
+}
+@media (max-width: 900px) {
+	.logo.svelte-g7kyji.svelte-g7kyji {
+		width: 10rem;
+	}
+}

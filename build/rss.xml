@@ -1,0 +1,617 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+			<channel>
+				<title>PauseAI</title>
+				<description>Halt the development of AI models that are too dangerous to be deployed.</description>
+				<link>https://pauseai.info</link>
+				<atom:link href="https://pauseai.info/rss.xml" rel="self" type="application/rss+xml"/>
+				
+						<item>
+							<title>PauseAI protest @ The Hague, Netherlands - August 11th</title>
+							<description>We are organizing a protest to demand a pause on dangerous AI development.</description>
+							<link>https://pauseai.info/2023-august-nl</link>
+							<guid isPermaLink="true">https://pauseai.info/2023-august-nl</guid>
+							
+						</item>
+					
+						<item>
+							<title>PauseAI protest @ FCDO, London, July 13th</title>
+							<description></description>
+							<link>https://pauseai.info/2023-july-london-13th</link>
+							<guid isPermaLink="true">https://pauseai.info/2023-july-london-13th</guid>
+							
+						</item>
+					
+						<item>
+							<title>PauseAI protest @ FCDO, London, July 18th</title>
+							<description></description>
+							<link>https://pauseai.info/2023-july-london-18th</link>
+							<guid isPermaLink="true">https://pauseai.info/2023-july-london-18th</guid>
+							
+						</item>
+					
+						<item>
+							<title>(Cancelled) PauseAI protest @ United Nations, NYC, July 18th</title>
+							<description></description>
+							<link>https://pauseai.info/2023-july-nyc</link>
+							<guid isPermaLink="true">https://pauseai.info/2023-july-nyc</guid>
+							
+						</item>
+					
+						<item>
+							<title>PauseAI protest @ Office for AI - June 29th</title>
+							<description></description>
+							<link>https://pauseai.info/2023-june-london-office-for-ai</link>
+							<guid isPermaLink="true">https://pauseai.info/2023-june-london-office-for-ai</guid>
+							
+						</item>
+					
+						<item>
+							<title>PauseAI protest @ Parliament Square - June 8th</title>
+							<description>We are organising a protest at Parliament Square to demand a summit to pause AI development.</description>
+							<link>https://pauseai.info/2023-june-london</link>
+							<guid isPermaLink="true">https://pauseai.info/2023-june-london</guid>
+							
+						</item>
+					
+						<item>
+							<title>PauseAI protest @ Melbourne - June 16th</title>
+							<description>Join PauseAI for an upcoming peaceful protest at the Melbourne Convention and Exhibition Centre (MCEC) where Sam Altman will be having a talk in Melbourne.</description>
+							<link>https://pauseai.info/2023-june-melbourne</link>
+							<guid isPermaLink="true">https://pauseai.info/2023-june-melbourne</guid>
+							
+						</item>
+					
+						<item>
+							<title>PauseAI protest @ Google DeepMind - May 19th - 22nd</title>
+							<description>We are organising a protest at Google DeepMind to demand a summit to pause AI development.</description>
+							<link>https://pauseai.info/2023-may-deepmind-london</link>
+							<guid isPermaLink="true">https://pauseai.info/2023-may-deepmind-london</guid>
+							
+						</item>
+					
+						<item>
+							<title>PauseAI protest @ Bletchley Park - November 1st</title>
+							<description>We are organising a protest at Bletchley Park, during the AI Safety Summit</description>
+							<link>https://pauseai.info/2023-november-uk</link>
+							<guid isPermaLink="true">https://pauseai.info/2023-november-uk</guid>
+							
+						</item>
+					
+						<item>
+							<title>International PauseAI protest 21st October 2023</title>
+							<description>We are organizing an international protest to demand a pause on dangerous AI development.</description>
+							<link>https://pauseai.info/2023-oct</link>
+							<guid isPermaLink="true">https://pauseai.info/2023-oct</guid>
+							
+						</item>
+					
+						<item>
+							<title>PauseAI / No AGI Protest @ OpenAI San Francisco - February 12th, 2024</title>
+							<description>We are organizing a protest to demand a pause on dangerous AI development.</description>
+							<link>https://pauseai.info/2024-february</link>
+							<guid isPermaLink="true">https://pauseai.info/2024-february</guid>
+							
+						</item>
+					
+						<item>
+							<title>International PauseAI protest May 13th 2024</title>
+							<description>We are organizing an international protest to demand a pause on dangerous AI development.</description>
+							<link>https://pauseai.info/2024-may</link>
+							<guid isPermaLink="true">https://pauseai.info/2024-may</guid>
+							
+						</item>
+					
+						<item>
+							<title>Organizing Director Vacancy at PauseAI Global</title>
+							<description>PauseAI is looking for an Organizing Director to help manage the organization and support local groups.</description>
+							<link>https://pauseai.info/2024-vacancy-organizing-director</link>
+							<guid isPermaLink="true">https://pauseai.info/2024-vacancy-organizing-director</guid>
+							
+						</item>
+					
+						<item>
+							<title>4 Levels of AI safety regulation</title>
+							<description>A framework for thinking about how to mitigate the risks from powerful AI systems</description>
+							<link>https://pauseai.info/4-levels-of-ai-regulation</link>
+							<guid isPermaLink="true">https://pauseai.info/4-levels-of-ai-regulation</guid>
+							
+						</item>
+					
+						<item>
+							<title>Take action</title>
+							<description>Ways to help out with pausing AGI development.</description>
+							<link>https://pauseai.info/action</link>
+							<guid isPermaLink="true">https://pauseai.info/action</guid>
+							
+						</item>
+					
+						<item>
+							<title>Why an AI takeover could be very likely</title>
+							<description>As AI surpasses human capabilities, the likelihood of an AI takeover becomes very high.</description>
+							<link>https://pauseai.info/ai-takeover</link>
+							<guid isPermaLink="true">https://pauseai.info/ai-takeover</guid>
+							
+						</item>
+					
+						<item>
+							<title>Rebutting skeptical arguments about AI existential risks</title>
+							<description>Why AI existential risks are real and deserve serious attention</description>
+							<link>https://pauseai.info/ai-x-risk-skepticism</link>
+							<guid isPermaLink="true">https://pauseai.info/ai-x-risk-skepticism</guid>
+							
+						</item>
+					
+						<item>
+							<title>PauseAI protest @ Microsoft Brussels - May 23rd, 2023</title>
+							<description>We are organizing a protest at Microsoft to demand a summit to pause AI development.</description>
+							<link>https://pauseai.info/brussels-microsoft-protest</link>
+							<guid isPermaLink="true">https://pauseai.info/brussels-microsoft-protest</guid>
+							
+						</item>
+					
+						<item>
+							<title>Communication Strategy</title>
+							<description>How we communicate about pausing AI development.</description>
+							<link>https://pauseai.info/communication-strategy</link>
+							<guid isPermaLink="true">https://pauseai.info/communication-strategy</guid>
+							
+						</item>
+					
+						<item>
+							<title>Counterarguments</title>
+							<description>A list of reasons why people might disagree with the idea of pausing AI development - and how to respond to them.</description>
+							<link>https://pauseai.info/counterarguments</link>
+							<guid isPermaLink="true">https://pauseai.info/counterarguments</guid>
+							
+						</item>
+					
+						<item>
+							<title>Cybersecurity risks from frontier AI models</title>
+							<description>How AI could be used to hack all devices.</description>
+							<link>https://pauseai.info/cybersecurity-risks</link>
+							<guid isPermaLink="true">https://pauseai.info/cybersecurity-risks</guid>
+							
+						</item>
+					
+						<item>
+							<title>Regulating dangerous capabilities in AI</title>
+							<description>The more powerful AI becomes in specific domains, the larger the risks become. How do we prevent these dangerous capabilities from appearing or spreading?</description>
+							<link>https://pauseai.info/dangerous-capabilities</link>
+							<guid isPermaLink="true">https://pauseai.info/dangerous-capabilities</guid>
+							
+						</item>
+					
+						<item>
+							<title>AI models are unpredictable digital brains</title>
+							<description>Nobody understands how AI models work, nobody can predict their behavior, and nobody will be able to control them.</description>
+							<link>https://pauseai.info/digital-brains</link>
+							<guid isPermaLink="true">https://pauseai.info/digital-brains</guid>
+							
+						</item>
+					
+						<item>
+							<title>PauseAI Discord server</title>
+							<description>Invitation link to PauseAI&apos;s Discord server</description>
+							<link>https://pauseai.info/discord</link>
+							<guid isPermaLink="true">https://pauseai.info/discord</guid>
+							
+						</item>
+					
+						<item>
+							<title>Donate to PauseAI</title>
+							<description>With your financial support we can have a bigger impact.</description>
+							<link>https://pauseai.info/donate</link>
+							<guid isPermaLink="true">https://pauseai.info/donate</guid>
+							
+						</item>
+					
+						<item>
+							<title>Environmental impact of AI</title>
+							<description>AI&apos;s environmental impact is a problem not just because of the immediate human cost, but because robots are fantastically energy-hungry and thus accelerate the unsustainable, insupportable damage we are doing to Earth.</description>
+							<link>https://pauseai.info/environmental</link>
+							<guid isPermaLink="true">https://pauseai.info/environmental</guid>
+							
+						</item>
+					
+						<item>
+							<title>FAQ</title>
+							<description>Frequently asked questions about PauseAI and the risks of superintelligent AI.</description>
+							<link>https://pauseai.info/faq</link>
+							<guid isPermaLink="true">https://pauseai.info/faq</guid>
+							
+						</item>
+					
+						<item>
+							<title>The Feasibility of a Pause</title>
+							<description>Is pausing AI possible?</description>
+							<link>https://pauseai.info/feasibility</link>
+							<guid isPermaLink="true">https://pauseai.info/feasibility</guid>
+							
+						</item>
+					
+						<item>
+							<title>Flyering Guide</title>
+							<description>How to distribute flyers for PauseAI</description>
+							<link>https://pauseai.info/flyering</link>
+							<guid isPermaLink="true">https://pauseai.info/flyering</guid>
+							
+						</item>
+					
+						<item>
+							<title>Who is funding PauseAI?</title>
+							<description></description>
+							<link>https://pauseai.info/funding</link>
+							<guid isPermaLink="true">https://pauseai.info/funding</guid>
+							
+						</item>
+					
+						<item>
+							<title>How we grow the PauseAI movement</title>
+							<description>What&apos;s the strategy to grow the PauseAI movement?</description>
+							<link>https://pauseai.info/growth-strategy</link>
+							<guid isPermaLink="true">https://pauseai.info/growth-strategy</guid>
+							
+						</item>
+					
+						<item>
+							<title>Implementing a Pause internationally - addressing the hard questions</title>
+							<description>What would an AI Pause look like? How do you continue to actually prevent a superintelligence from being created?</description>
+							<link>https://pauseai.info/implementing-a-pause</link>
+							<guid isPermaLink="true">https://pauseai.info/implementing-a-pause</guid>
+							
+						</item>
+					
+						<item>
+							<title>Join PauseAI</title>
+							<description>Sign up to join the PauseAI movement.</description>
+							<link>https://pauseai.info/join</link>
+							<guid isPermaLink="true">https://pauseai.info/join</guid>
+							
+						</item>
+					
+						<item>
+							<title>Learn why AI safety matters</title>
+							<description>Educational resources (videos, articles, books) about AI risks and AI alignment</description>
+							<link>https://pauseai.info/learn</link>
+							<guid isPermaLink="true">https://pauseai.info/learn</guid>
+							
+						</item>
+					
+						<item>
+							<title>Legal information</title>
+							<description>Information required by law about PauseAI.</description>
+							<link>https://pauseai.info/legal</link>
+							<guid isPermaLink="true">https://pauseai.info/legal</guid>
+							
+						</item>
+					
+						<item>
+							<title>Tips for effective lobbying</title>
+							<description>How to convince your government that it needs to work towards a pause on AI training runs</description>
+							<link>https://pauseai.info/lobby-tips</link>
+							<guid isPermaLink="true">https://pauseai.info/lobby-tips</guid>
+							
+						</item>
+					
+						<item>
+							<title>Running a local PauseAI Community: A Guide to Local Organizing</title>
+							<description>How can you set up a community and make an impact, locally?</description>
+							<link>https://pauseai.info/local-organizing</link>
+							<guid isPermaLink="true">https://pauseai.info/local-organizing</guid>
+							
+						</item>
+					
+						<item>
+							<title>PauseAI MicroGrants</title>
+							<description>Our community fund to support projects that align with our mission.</description>
+							<link>https://pauseai.info/microgrants</link>
+							<guid isPermaLink="true">https://pauseai.info/microgrants</guid>
+							
+						</item>
+					
+						<item>
+							<title>Pausing AI development might go wrong. How to mitigate the risks?</title>
+							<description>This article addresses some of the risks of pausing AI development, and how to mitigate them.</description>
+							<link>https://pauseai.info/mitigating-pause-failures</link>
+							<guid isPermaLink="true">https://pauseai.info/mitigating-pause-failures</guid>
+							
+						</item>
+					
+						<item>
+							<title>PauseAI National Groups</title>
+							<description>What does it mean to be a National Group in the PauseAI network?</description>
+							<link>https://pauseai.info/national-groups</link>
+							<guid isPermaLink="true">https://pauseai.info/national-groups</guid>
+							
+						</item>
+					
+						<item>
+							<title>PauseAI NYC Action Items</title>
+							<description>Help stop the acceleration of dangerous AI by taking action!</description>
+							<link>https://pauseai.info/nyc-action</link>
+							<guid isPermaLink="true">https://pauseai.info/nyc-action</guid>
+							<pubDate>Tue, 20 Aug 2024 00:00:00 GMT</pubDate>
+						</item>
+					
+						<item>
+							<title>PauseAI candlelit vigil @ UN HQ NYC, 3rd of June</title>
+							<description></description>
+							<link>https://pauseai.info/nyc-un-vigil</link>
+							<guid isPermaLink="true">https://pauseai.info/nyc-un-vigil</guid>
+							
+						</item>
+					
+						<item>
+							<title>Offense / Defense balance in AI safety</title>
+							<description>How to think about the balance between offense and defense in AI safety</description>
+							<link>https://pauseai.info/offense-defense</link>
+							<guid isPermaLink="true">https://pauseai.info/offense-defense</guid>
+							
+						</item>
+					
+						<item>
+							<title>San Francisco&apos;s 3-Day Picket: Demanding Pause on Advanced AI Development Near OpenAI</title>
+							<description></description>
+							<link>https://pauseai.info/openai-protest</link>
+							<guid isPermaLink="true">https://pauseai.info/openai-protest</guid>
+							
+						</item>
+					
+						<item>
+							<title>PauseAI Organization</title>
+							<description>How the PauseAI organization is structured, and what resources are available for members.</description>
+							<link>https://pauseai.info/organization</link>
+							<guid isPermaLink="true">https://pauseai.info/organization</guid>
+							
+						</item>
+					
+						<item>
+							<title>Organizing a PauseAI protest</title>
+							<description>It&apos;s not very hard!</description>
+							<link>https://pauseai.info/organizing-a-protest</link>
+							<guid isPermaLink="true">https://pauseai.info/organizing-a-protest</guid>
+							
+						</item>
+					
+						<item>
+							<title>Partnership Opportunities with PauseAI</title>
+							<description>Invitation link to PauseAI&apos;s Discord server</description>
+							<link>https://pauseai.info/partnerships</link>
+							<guid isPermaLink="true">https://pauseai.info/partnerships</guid>
+							
+						</item>
+					
+						<item>
+							<title>Polls &amp; surveys</title>
+							<description>How much do regular people and experts worry about AI risks and governance?</description>
+							<link>https://pauseai.info/polls-and-surveys</link>
+							<guid isPermaLink="true">https://pauseai.info/polls-and-surveys</guid>
+							
+						</item>
+					
+						<item>
+							<title>PauseAI Press materials &amp; media coverage</title>
+							<description></description>
+							<link>https://pauseai.info/press</link>
+							<guid isPermaLink="true">https://pauseai.info/press</guid>
+							
+						</item>
+					
+						<item>
+							<title>Privacy policy for PauseAI</title>
+							<description></description>
+							<link>https://pauseai.info/privacy</link>
+							<guid isPermaLink="true">https://pauseai.info/privacy</guid>
+							
+						</item>
+					
+						<item>
+							<title>PauseAI Proposal</title>
+							<description>Implement a temporary pause on the training of AI systems more powerful than GPT-4, ban training on copyrighted material, hold model creators liable.</description>
+							<link>https://pauseai.info/proposal</link>
+							<guid isPermaLink="true">https://pauseai.info/proposal</guid>
+							
+						</item>
+					
+						<item>
+							<title>PauseAI Protesters Code of Conduct</title>
+							<description></description>
+							<link>https://pauseai.info/protesters-code-of-conduct</link>
+							<guid isPermaLink="true">https://pauseai.info/protesters-code-of-conduct</guid>
+							
+						</item>
+					
+						<item>
+							<title>PauseAI Protests</title>
+							<description>When and where we will be protesting.</description>
+							<link>https://pauseai.info/protests</link>
+							<guid isPermaLink="true">https://pauseai.info/protests</guid>
+							
+						</item>
+					
+						<item>
+							<title>The difficult psychology of existential risk</title>
+							<description>Thinking about the end of the world is hard.</description>
+							<link>https://pauseai.info/psychology-of-x-risk</link>
+							<guid isPermaLink="true">https://pauseai.info/psychology-of-x-risk</guid>
+							
+						</item>
+					
+						<item>
+							<title>Risks of artificial intelligence</title>
+							<description>AI threatens our democracy, our technology, and our species.</description>
+							<link>https://pauseai.info/risks</link>
+							<guid isPermaLink="true">https://pauseai.info/risks</guid>
+							
+						</item>
+					
+						<item>
+							<title>PauseAI Roadmap and Funding Scenarios</title>
+							<description>What are we planning to do and what could we do with more funding?</description>
+							<link>https://pauseai.info/roadmap</link>
+							<guid isPermaLink="true">https://pauseai.info/roadmap</guid>
+							
+						</item>
+					
+						<item>
+							<title>Concrete scenarios for catastrophic AI risks</title>
+							<description>How superintelligent AI could cause human extinction.</description>
+							<link>https://pauseai.info/scenarios</link>
+							<guid isPermaLink="true">https://pauseai.info/scenarios</guid>
+							
+						</item>
+					
+						<item>
+							<title>State-of-the-art AI capabilities vs humans</title>
+							<description>How smart are the latest AI models compared to humans?</description>
+							<link>https://pauseai.info/sota</link>
+							<guid isPermaLink="true">https://pauseai.info/sota</guid>
+							
+						</item>
+					
+						<item>
+							<title>Towards the next AI Summit (Paris 2025)</title>
+							<description>Why we need the AI safety summit to happen, and what it should achieve.</description>
+							<link>https://pauseai.info/summit</link>
+							<guid isPermaLink="true">https://pauseai.info/summit</guid>
+							
+						</item>
+					
+						<item>
+							<title>Tabling for PauseAI</title>
+							<description>Set up a table and talk to people about AI risks and why we need to pause.</description>
+							<link>https://pauseai.info/tabling</link>
+							<guid isPermaLink="true">https://pauseai.info/tabling</guid>
+							
+						</item>
+					
+						<item>
+							<title>Theory of Change</title>
+							<description>How does PauseAI expect to achieve its mission?</description>
+							<link>https://pauseai.info/theory-of-change</link>
+							<guid isPermaLink="true">https://pauseai.info/theory-of-change</guid>
+							<pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
+						</item>
+					
+						<item>
+							<title>Timelines to AGI</title>
+							<description>How long do people expect it will take for AGI or superintelligent AI to be developed?</description>
+							<link>https://pauseai.info/timelines</link>
+							<guid isPermaLink="true">https://pauseai.info/timelines</guid>
+							
+						</item>
+					
+						<item>
+							<title>PauseAI UN Demonstration</title>
+							<description>Help us demand immediate global regulation on frontier AI models</description>
+							<link>https://pauseai.info/unprotest</link>
+							<guid isPermaLink="true">https://pauseai.info/unprotest</guid>
+							<pubDate>Wed, 18 Sep 2024 00:00:00 GMT</pubDate>
+						</item>
+					
+						<item>
+							<title>People of PauseAI</title>
+							<description>Who are the volunteers working on PauseAI?</description>
+							<link>https://pauseai.info/people</link>
+							<guid isPermaLink="true">https://pauseai.info/people</guid>
+							<pubDate>Wed, 17 Apr 2024 00:00:00 GMT</pubDate>
+						</item>
+					
+						<item>
+							<title>Why we might have superintelligence sooner than most think</title>
+							<description>We&apos;re underestimating the progress of AI, and there is a small but realistic chance that we are very close to a superintelligence.</description>
+							<link>https://pauseai.info/urgency</link>
+							<guid isPermaLink="true">https://pauseai.info/urgency</guid>
+							<pubDate>Thu, 04 May 2023 00:00:00 GMT</pubDate>
+						</item>
+					
+						<item>
+							<title>US Lobbying Guide</title>
+							<description>The goal of this guide is to empower people – everyday citizens who lack any background in lobbying or advocacy, but who are concerned about AI – to meet with their elected officials directly and make their concerns heard as effectively as possible.</description>
+							<link>https://pauseai.info/us-lobby-guide</link>
+							<guid isPermaLink="true">https://pauseai.info/us-lobby-guide</guid>
+							
+						</item>
+					
+						<item>
+							<title>Open Volunteer Vacancies for PauseAI</title>
+							<description>If you want to join PauseAI,</description>
+							<link>https://pauseai.info/vacancies</link>
+							<guid isPermaLink="true">https://pauseai.info/vacancies</guid>
+							
+						</item>
+					
+						<item>
+							<title>PauseAI values</title>
+							<description>How does PauseAI plan to achieve its mission?</description>
+							<link>https://pauseai.info/values</link>
+							<guid isPermaLink="true">https://pauseai.info/values</guid>
+							
+						</item>
+					
+						<item>
+							<title>How to write a letter or email to someone in power</title>
+							<description>A guide on how to write a lobby letter</description>
+							<link>https://pauseai.info/writing-a-letter</link>
+							<guid isPermaLink="true">https://pauseai.info/writing-a-letter</guid>
+							
+						</item>
+					
+						<item>
+							<title>Writing press releases for protests</title>
+							<description>How to be effective at writing a press release to cover a protest.</description>
+							<link>https://pauseai.info/writing-press-releases</link>
+							<guid isPermaLink="true">https://pauseai.info/writing-press-releases</guid>
+							
+						</item>
+					
+						<item>
+							<title>The existential risk of superintelligent AI</title>
+							<description>Why AI is a risk for the future of our existence, and why we need to pause development.</description>
+							<link>https://pauseai.info/xrisk</link>
+							<guid isPermaLink="true">https://pauseai.info/xrisk</guid>
+							
+						</item>
+					
+						<item>
+							<title>Quotes</title>
+							<description>Quotes about risks from artificial intelligence</description>
+							<link>https://pauseai.info/quotes</link>
+							<guid isPermaLink="true">https://pauseai.info/quotes</guid>
+							<pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
+						</item>
+					
+						<item>
+							<title>List of p(doom) values</title>
+							<description>How likely do AI various researchers believe AI will cause human extinction?</description>
+							<link>https://pauseai.info/pdoom</link>
+							<guid isPermaLink="true">https://pauseai.info/pdoom</guid>
+							<pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+						</item>
+					
+						<item>
+							<title>PauseAI Local Communities</title>
+							<description>A map of all the local PauseAI communities and people around the world. Also shows adjacent AI Safety communities.</description>
+							<link>https://pauseai.info/communities</link>
+							<guid isPermaLink="true">https://pauseai.info/communities</guid>
+							<pubDate>Fri, 15 Dec 2023 00:00:00 GMT</pubDate>
+						</item>
+					
+						<item>
+							<title>Email Builder</title>
+							<description>A web app to help you write an email to a politician. Convince them to Pause AI!</description>
+							<link>https://pauseai.info/email-builder</link>
+							<guid isPermaLink="true">https://pauseai.info/email-builder</guid>
+							<pubDate>Fri, 08 Dec 2023 00:00:00 GMT</pubDate>
+						</item>
+					
+						<item>
+							<title>AI Outcomes</title>
+							<description>What will happen if we continue to build AI?</description>
+							<link>https://pauseai.info/outcomes</link>
+							<guid isPermaLink="true">https://pauseai.info/outcomes</guid>
+							<pubDate>Thu, 24 Aug 2023 00:00:00 GMT</pubDate>
+						</item>
+					
+			</channel>
+		</rss>

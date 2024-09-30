@@ -1,0 +1,18 @@
+.posts.svelte-4dn8qo {
+	display: grid;
+	gap: 1rem;
+}
+.title.svelte-4dn8qo {
+	color: var(--text);
+	font-family: var(--font-heading);
+	font-weight: 700;
+	text-decoration: none;
+	font-size: 1.3rem;
+	text-transform: capitalize;
+}
+.title.svelte-4dn8qo:hover {
+	text-decoration: underline;
+}
+.description.svelte-4dn8qo {
+	margin-top: var(--size-3);
+}

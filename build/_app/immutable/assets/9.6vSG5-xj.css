@@ -1,0 +1,60 @@
+.bar.svelte-t0dysd.svelte-t0dysd {
+	position: absolute;
+	background-color: var(--brand);
+	opacity: 0.7;
+	height: 3px;
+	bottom: 0;
+	z-index: 2;
+}
+.note.svelte-t0dysd.svelte-t0dysd {
+	font-size: 0.8rem;
+}
+.title.svelte-t0dysd.svelte-t0dysd {
+	margin-left: 0.4rem;
+	opacity: 0.5;
+	font-family: var(--font-body);
+	font-weight: 400;
+	font-size: 0.8rem;
+}
+.doomer.svelte-t0dysd.svelte-t0dysd {
+	margin-bottom: 1rem;
+	position: relative;
+	display: flex;
+	flex-direction: row;
+}
+.name.svelte-t0dysd.svelte-t0dysd {
+	display: flex;
+	position: relative;
+	padding-bottom: 0.3rem;
+}
+@media (max-width: 850px) {
+	.name.svelte-t0dysd.svelte-t0dysd {
+		flex-direction: column;
+	}
+	.title.svelte-t0dysd.svelte-t0dysd {
+		margin-left: 0;
+	}
+}
+.pdoom.svelte-t0dysd.svelte-t0dysd {
+	text-align: center;
+	flex-basis: 6rem;
+	flex-grow: 0;
+	flex-shrink: 0;
+}
+.pdoom.svelte-t0dysd a.svelte-t0dysd {
+	color: var(--brand);
+	text-decoration: none;
+}
+.details.svelte-t0dysd.svelte-t0dysd {
+	flex-grow: 1;
+	z-index: 3;
+}
+.doomer.svelte-t0dysd h3.svelte-t0dysd {
+	margin: 0;
+}
+.doomer.svelte-t0dysd a.svelte-t0dysd {
+	text-decoration: none;
+}
+.doomer.svelte-t0dysd a.svelte-t0dysd:hover {
+	text-decoration: underline;
+}

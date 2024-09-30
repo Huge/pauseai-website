@@ -1,0 +1,37 @@
+.team.svelte-155prdz {
+	display: flex;
+	flex-direction: column;
+	position: relative;
+}
+.description.svelte-155prdz {
+	position: relative;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+	word-wrap: break-word;
+}
+.name.svelte-155prdz {
+	color: var(--text);
+	font-family: var(--font-heading);
+	font-weight: 700;
+	text-decoration: none;
+	font-size: 1.4rem;
+	text-transform: capitalize;
+	margin: 0;
+	display: flex;
+	flex-direction: row;
+}
+h3.svelte-155prdz {
+	margin: 0;
+	margin-bottom: 1rem;
+}
+.responsibilities.svelte-155prdz {
+	list-style-type: disc;
+	margin-left: 1rem;
+	padding: 0.3rem;
+	margin-bottom: 1rem;
+	margin-top: -1rem;
+}
+.people.svelte-sanvdh {
+	display: grid;
+	gap: 1rem;
+}

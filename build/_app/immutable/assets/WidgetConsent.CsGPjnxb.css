@@ -1,0 +1,13 @@
+.widget-consent.svelte-1i0x9ha {
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	align-items: center;
+	padding: 1rem;
+	border: 3px solid var(--brand);
+	border-radius: 3px;
+	margin: 1rem 0rem;
+}
+.consent-text.svelte-1i0x9ha {
+	margin: 0rem 0rem 1rem;
+}
