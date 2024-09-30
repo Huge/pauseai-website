@@ -17,11 +17,13 @@ function recordToTeam(record: any): Team {
 export async function GET({ fetch }) {
 	const url = `https://api.airtable.com/v0/appWPTGqZmUcs3NWu/tblYLOPzJ32QOdBLg`
 
+	let out: Team[] = [] // Initialize to an empty array by default
 	const response = await fetch(url, options)
 	if (!response.ok) {
-		throw new Error('Failed to fetch data from Airtable')
+		// throw new Error('Failed to fetch data from Airtable')
+		const e = new Error('Failed to fetch data from Airtable')
 	}
 	const data = await response.json()
-	const out: Team[] = data.records.map(recordToTeam).filter((r: Team) => r.public)
+	out = out // data.records.map(recordToTeam).filter((r: Team) => r.public)
 	return json(out)
 }
