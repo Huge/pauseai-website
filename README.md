@@ -19,16 +19,14 @@ pnpm run build
 
 To get rocking on your GH pages with `gh` do:
 
-```
-#!/bin/bash
-
+```#!/bin/bash
 # Variables
 REPO_URL="https://github.com/PauseAI/pauseai-website"
 REPO_NAME="pauseai-website"
 BRANCH="main"
 USERNAME=$(gh auth status -t | grep -o 'Logged in to .\+ as \(\S\+\)' | awk '{print $6}')
-
 FORKED_REPO_NAME="$USERNAME/$REPO_NAME"
+
 # Enable GitHub Pages to serve from the main branch
 gh api -X POST "repos/$FORKED_REPO_NAME/pages" \
   --field "source[branch]=$BRANCH" \
