@@ -1,0 +1,21 @@
+{
+  "name": "Svelte App",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:18",  // Node.js version
+  "postCreateCommand": "pnpm install",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "dbaeumer.vscode-eslint",  // Add any other extensions you want
+        "svelte.svelte-vscode"
+      ]
+    }
+  },
+  "forwardPorts": [37572],  // The port where your app runs
+  "portsAttributes": {
+    "37572": {
+      "label": "Svelte App",
+      "onAutoForward": "openPreview"
+    }
+  }
+}
+
