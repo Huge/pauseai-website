@@ -38,4 +38,6 @@ pnpm run dev
 
 ## Deployment
 
-The contents of the repository are continuously deployed to Netlify. You can track the deployment status [here](https://app.netlify.com/sites/pauseai/deploys).
+We strive to make it easy to deploy easily to your GH pages to see and discuss. See [the guide](https://chatgpt.com/share/66fa9278-a7c4-8008-bf9b-8564408378ef)...
+
+The OG repository gets continuously deployed to Netlify with the deployment status [here](https://app.netlify.com/sites/pauseai/deploys).
